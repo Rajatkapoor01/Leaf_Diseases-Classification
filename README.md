@@ -13,3 +13,5 @@ Deploying the web application in K8s
 Continuous Integration pipeline (GitHub)
 
 Continuous Deployment pipeline
+[!Working](https://github.com/Rajatkapoor01/Leaf_Diseases-Classification/blob/main/Working%2001.png)
+[!working](https://github.com/Rajatkapoor01/Leaf_Diseases-Classification/blob/main/Working%2002.png)
